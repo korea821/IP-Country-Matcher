@@ -10,7 +10,7 @@ pip install requests
 ```
 
 ```Bash
-python ip_country_mapper.py
+python ip_country_matcher.py
 ```
 
 
